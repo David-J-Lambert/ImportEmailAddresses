@@ -1,4 +1,4 @@
-VBA code to run in Microsoft Excel to create and maintain any number of folders and contact groups in Microsoft Outlook.
+xlsm file with Excel VBA and Excel forms to create and maintain any number of folders and contact groups in Microsoft Outlook.
 
 Reads email addresses from an Excel spreadsheet, end-user can then choose to, on a column-by-column basis:
 1)  Add the new email addresses
