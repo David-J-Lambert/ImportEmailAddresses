@@ -1,8 +1,6 @@
-VBA code to run in Microsoft Excel.
+VBA code to run in Microsoft Excel to create and maintain any number of folders and contact groups in Microsoft Outlook.
 
-For the creation and maintenance of any number of folders and contact groups in Microsoft Outlook.
-
-Reads email addresses from an Excel spreadsheet, can then choose to:
+Reads email addresses from an Excel spreadsheet, end-user can then choose to, on a column-by-column basis:
 1)  Add the new email addresses
 2)  Delete existing email addresses
 3)  Update existing email addresses.
@@ -25,3 +23,9 @@ Flags and ignores email addresses listed in more than one operation:
 3) Add and Update.
 4) Update and Delete.
 Assumes that email addresses are listed in more than one operation due to typos or other mistakes.
+
+Package is a 7-zipped xlsm file which includes:
+1) All VBA,
+2) An Excel spreadsheet with instructions on running the code,
+3) 7 spreadsheets of test cases for testing the VBA,
+4) 1 spreadsheet with data for stress testing the entire application.
