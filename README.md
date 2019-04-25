@@ -24,8 +24,8 @@ Flags and ignores email addresses listed in more than one operation:
 4) Update and Delete.
 Assumes that email addresses are listed in more than one operation due to typos or other mistakes.
 
-Package is a 7-zipped xlsm file which includes:
-1) All VBA,
-2) An Excel spreadsheet with instructions on running the code,
-3) 7 spreadsheets of test cases for testing the VBA,
+Package is an xlsm file including:
+1) All VBA and forms
+2) An Excel spreadsheet with instructions on running the code
+3) 7 spreadsheets of test cases for testing the VBA
 4) 1 spreadsheet with data for stress testing the entire application.
