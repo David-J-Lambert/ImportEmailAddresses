@@ -1,4 +1,4 @@
-Xlsm file containing VBA and forms for Excel for maintaining any number of folders and contact groups in Microsoft Outlook.
+Xlsm file containing VBA and forms for Excel for managing the email addresses in any number of folders and contact groups in Microsoft Outlook.
 
 Reads email addresses from an Excel spreadsheet, end-user can then choose to, on a column-by-column basis:
 1)  Add the new email addresses
