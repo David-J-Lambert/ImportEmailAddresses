@@ -1,5 +1,5 @@
-Attribute VB_Name = "Tools"
-' Module Tools.
+Attribute VB_Name = "EmailAddressUtilities"
+' Module EmailAddressUtilities.
 ' Author: David Lambert, David5Lambert7@Gmail.com.
 ' MICROSOFT OFFICE SETUP: The spreadsheet "INSTRUCTIONS" has macro setup instructions.
 
@@ -355,4 +355,3 @@ Public Function ValidLocalPart(ByVal sLocalPart As String) As String
     ValidLocalPart = vbNullString
 
 End Function ' ValidLocalPart
-
