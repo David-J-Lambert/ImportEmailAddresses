@@ -28,11 +28,11 @@ Public Sub AddToSummary(ByVal sAdd As String)
     sSummary = sSummary & vbCrLf & vbCrLf & sAdd
 End Sub
 
-Public Function GetSummary() As String
-    GetSummary = sSummary
-End Function
-
 Public Sub PrintSummary(ByVal sCaption As String)
     MsgBox sSummary, , sCaption
 End Sub
 
+' Not Used
+'Public Function GetSummary() As String
+'    GetSummary = sSummary
+'End Function
